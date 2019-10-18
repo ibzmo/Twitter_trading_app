@@ -8,7 +8,7 @@ The app scans Twitter and analyses word segments across the platform to predict 
 
 This is only an MVP so there may stil be a few small bugs etc but it should still work well. 
 
-### A special thank you to https://github.com/os717 the other major code contributor to this app, make sure to check out his github he plenty of other interesting projects on there too 
+### A special thank you to https://github.com/os717 the other major code contributor to this app, make sure to check out his github he has plenty of other interesting projects on there too 
 
 # How to use:
 
